@@ -1,0 +1,2 @@
+[09-Dec-2024 12:08:21 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[09-Dec-2024 12:08:21 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11

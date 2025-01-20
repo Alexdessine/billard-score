@@ -1,0 +1,10 @@
+[12-Jan-2024 21:20:19 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[24-Nov-2024 18:48:06 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[04-Dec-2024 09:31:54 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[09-Dec-2024 10:17:15 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[13-Jan-2025 22:02:38 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[13-Jan-2025 22:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/form/traitement_inscription.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54

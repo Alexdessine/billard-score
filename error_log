@@ -1,0 +1,131 @@
+[12-Jan-2024 21:19:39 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/statistiques.php on line 3
+[12-Jan-2024 21:22:36 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Jan-2024 21:23:56 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Jan-2024 21:28:54 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Jan-2024 21:33:43 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[13-Jan-2024 06:01:20 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/user-admin.php on line 3
+[09-Nov-2024 10:00:26 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[10-Nov-2024 10:05:43 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[10-Nov-2024 10:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[11-Nov-2024 09:16:29 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[12-Nov-2024 06:36:00 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Nov-2024 06:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[12-Nov-2024 06:36:01 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[24-Nov-2024 11:34:09 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[24-Nov-2024 11:34:10 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[24-Nov-2024 11:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[24-Nov-2024 11:34:10 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[24-Nov-2024 11:34:11 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[24-Nov-2024 11:34:11 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[24-Nov-2024 11:34:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[24-Nov-2024 11:34:16 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[24-Nov-2024 18:47:59 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/user-admin.php on line 3
+[24-Nov-2024 18:48:28 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/statistiques.php on line 3
+[24-Nov-2024 18:48:35 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/statistiques.php on line 3
+[24-Nov-2024 18:48:50 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/profil.php on line 3
+[24-Nov-2024 18:51:24 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/user-admin.php on line 3
+[26-Nov-2024 16:06:21 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[26-Nov-2024 16:33:10 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[26-Nov-2024 16:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[27-Nov-2024 16:54:55 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[27-Nov-2024 16:55:04 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[27-Nov-2024 16:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[29-Nov-2024 11:34:37 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[02-Dec-2024 07:56:26 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[02-Dec-2024 07:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[02-Dec-2024 07:56:36 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[02-Dec-2024 13:36:47 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[04-Dec-2024 09:30:25 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[04-Dec-2024 09:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[04-Dec-2024 09:31:22 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/user-admin.php on line 3
+[04-Dec-2024 09:32:05 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[06-Dec-2024 10:54:16 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/user-admin.php on line 3
+[06-Dec-2024 20:54:23 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[06-Dec-2024 20:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[07-Dec-2024 03:03:24 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[10-Dec-2024 03:05:21 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[11-Dec-2024 15:54:01 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[11-Dec-2024 20:07:29 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[11-Dec-2024 20:07:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[11-Dec-2024 20:07:30 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[19-Dec-2024 15:28:30 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[21-Dec-2024 12:55:46 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[21-Dec-2024 12:55:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[21-Dec-2024 12:55:54 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[21-Dec-2024 12:56:59 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[21-Dec-2024 12:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[21-Dec-2024 12:57:08 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[21-Dec-2024 12:57:22 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[21-Dec-2024 12:57:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[23-Dec-2024 21:46:03 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[29-Dec-2024 14:20:07 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[04-Jan-2025 09:39:49 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[06-Jan-2025 15:19:10 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[06-Jan-2025 15:19:17 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[06-Jan-2025 15:19:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[07-Jan-2025 21:42:30 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[11-Jan-2025 14:34:26 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[12-Jan-2025 02:14:51 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89
+[12-Jan-2025 03:04:36 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Jan-2025 03:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/boal2619/billard-score.fr/config/config.php:54
+Stack trace:
+#0 /home/boal2619/billard-score.fr/login.php(2): require_once()
+#1 {main}
+  thrown in /home/boal2619/billard-score.fr/config/config.php on line 54
+[12-Jan-2025 03:04:37 UTC] PHP Warning:  Undefined variable $csrf_token in /home/boal2619/billard-score.fr/signup.php on line 89

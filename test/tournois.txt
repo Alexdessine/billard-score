@@ -1,0 +1,28 @@
+Nom du tournoi: BLACKBALL TR1 FEMININ
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+FEMININ/33209617
+--------------------------------
+Nom du tournoi: BLACKBALL TR1 HANDI-DEBOUT
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+HANDI-DEBOUT/33209623
+--------------------------------
+Nom du tournoi: BLACKBALL TR1 VETERAN
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+VETERAN/33209605
+--------------------------------
+Nom du tournoi: BLACBALL TR1 MIXTE
+URL du tournoi: //cuescore.com/tournament/BLACBALL+TR1+MIXTE/33209632
+--------------------------------
+Nom du tournoi: BLACKBALL TR1 BENJAMIN
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+BENJAMIN/33421294
+--------------------------------
+Nom du tournoi: BLACKBALL TR1 ESPOIR
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+ESPOIR/33421300
+--------------------------------
+Nom du tournoi: BLACKBALL TR1 JUNIOR
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+JUNIOR/33421306
+--------------------------------
+Nom du tournoi: BLACKBALL TR1 TOP-LIGUE
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+TOP-LIGUE/33423577
+--------------------------------
+Nom du tournoi: BLACKBALL TR1 HANDI-FAUTEUIL
+URL du tournoi: //cuescore.com/tournament/BLACKBALL+TR1+HANDI-FAUTEUIL/33423586
+--------------------------------
+Timestamp : 2023-10-04 15:33:45

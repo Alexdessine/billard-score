@@ -1,0 +1,13 @@
+[12-Jan-2024 21:30:28 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Jan-2024 21:30:28 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Jan-2024 21:32:40 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[12-Jan-2024 21:32:40 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[24-Nov-2024 18:49:46 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[24-Nov-2024 18:49:46 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[24-Nov-2024 18:49:47 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/exercices/exercices.php on line 3
+[24-Nov-2024 18:49:48 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/exercices/exercices.php on line 3
+[24-Nov-2024 18:49:48 UTC] PHP Warning:  Undefined array key "autoriser" in /home/boal2619/billard-score.fr/exercices/exercices.php on line 3
+[09-Dec-2024 12:08:04 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[09-Dec-2024 12:08:04 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[09-Dec-2024 12:08:19 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
+[09-Dec-2024 12:08:19 UTC] PHP Warning:  error_log(logs/error_log.txt): Failed to open stream: No such file or directory in /home/boal2619/billard-score.fr/config/config.php on line 11
